@@ -10,7 +10,7 @@ public class HelloWorld {
     System.out.println("Digite uma frase: ");
     String a = sc.nextLine();
 
-    System.out.printf("Você digitou: %s", a);
-
+    System.out.printf("Você digitou: %s\n", a);
+    System.out.printf("Novamente, sua palavra é: %s", a);
   }
 }
