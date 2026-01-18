@@ -4,8 +4,8 @@ out/
 !**/src/test/**/out/
 .kotlin
 .idea/
-Intermediario.iml
-Java Completo.iml
+Intermediario.iml/
+Java Completo.iml/
 
 ### Eclipse ###
 .apt_generated
