@@ -1,4 +1,4 @@
-package loiane.javaintermediario;
+package loiane;
 
 import java.util.Scanner;
 
